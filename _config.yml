@@ -31,7 +31,7 @@ plugins:
 # Sidebar settings
 sidebar: true  #添加侧边栏
 sidebar-about-description: "HIT-SZer"
-sidebar-avatar: /img/miaodeshui.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
+sidebar-avatar: /images/miaodeshui.jpg     #你的大头贴，请使用绝对地址.注意：名字区分大小写！后缀名也是
 
 # Featured Tags
 featured-tags: true  
